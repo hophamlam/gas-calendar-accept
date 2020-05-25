@@ -13,6 +13,7 @@ It wasn't obvious to me at first how to use Google App Scripts. Finally found th
 2) Copy and paste both the Code.gs file and AutoResponse.html into your project.
 
 https://github.com/ClaudiaJ/gas-calendar-accept/blob/master/AutoResponse.html
+
 https://github.com/ClaudiaJ/gas-calendar-accept/blob/master/Code.gs
 
 3) Go to File -> Project Properties and add a new Script Property named "Id" with your calendar ID as the value (usually your email address - you can find it in your calendar settings).
