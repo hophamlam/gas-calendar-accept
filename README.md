@@ -14,6 +14,7 @@ It wasn't obvious to me at first how to use Google App Scripts. Finally found th
 
 https://github.com/ClaudiaJ/gas-calendar-accept/blob/master/AutoResponse.html
 https://github.com/ClaudiaJ/gas-calendar-accept/blob/master/Code.gs
+
 3) Go to File -> Project Properties and add a new Script Property named "Id" with your calendar ID as the value (usually your email address - you can find it in your calendar settings).
 
 4) You should now be able to run the script by selecting "ProcessInvites" in the top menu under the "Select function" dropdown and then clicking the play button next to it (note: the play button is disabled until you select an item in the dropdown)
